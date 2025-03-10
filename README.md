@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/charanYelimela334/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/charanYelimela334/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
