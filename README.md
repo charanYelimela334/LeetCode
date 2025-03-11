@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/charanYelimela334/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/charanYelimela334/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/charanYelimela334/LeetCode/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/charanYelimela334/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/charanYelimela334/LeetCode/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/charanYelimela334/LeetCode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/charanYelimela334/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/charanYelimela334/LeetCode/tree/master/2087-confirmation-rate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
