@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/charanYelimela334/LeetCode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/charanYelimela334/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [1319-unique-number-of-occurrences](https://github.com/charanYelimela334/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/charanYelimela334/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/charanYelimela334/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/charanYelimela334/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Database
 |  |
