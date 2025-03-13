@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/charanYelimela334/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/charanYelimela334/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/charanYelimela334/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/charanYelimela334/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/charanYelimela334/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/charanYelimela334/LeetCode/tree/master/0443-string-compression) |
@@ -47,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/charanYelimela334/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
