@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/charanYelimela334/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/charanYelimela334/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/charanYelimela334/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/charanYelimela334/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/charanYelimela334/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/charanYelimela334/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/charanYelimela334/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/charanYelimela334/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
