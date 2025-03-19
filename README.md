@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanYelimela334/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/charanYelimela334/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/charanYelimela334/LeetCode/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/charanYelimela334/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/charanYelimela334/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/charanYelimela334/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/charanYelimela334/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/charanYelimela334/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
 | [1777-determine-if-two-strings-are-close](https://github.com/charanYelimela334/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/charanYelimela334/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/charanYelimela334/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
