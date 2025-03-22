@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanYelimela334/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/charanYelimela334/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/charanYelimela334/LeetCode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/charanYelimela334/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/charanYelimela334/LeetCode/tree/master/0443-string-compression) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/charanYelimela334/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/charanYelimela334/LeetCode/tree/master/0027-remove-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/charanYelimela334/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/charanYelimela334/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
