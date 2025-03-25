@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charanYelimela334/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/charanYelimela334/LeetCode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/charanYelimela334/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0392-is-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/charanYelimela334/LeetCode/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/charanYelimela334/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/charanYelimela334/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/charanYelimela334/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/charanYelimela334/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
