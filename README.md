@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/charanYelimela334/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/charanYelimela334/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/charanYelimela334/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/charanYelimela334/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2308-divide-array-into-equal-pairs](https://github.com/charanYelimela334/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3430-count-days-without-meetings](https://github.com/charanYelimela334/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Prefix Sum
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/charanYelimela334/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/charanYelimela334/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/charanYelimela334/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
