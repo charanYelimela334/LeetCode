@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/charanYelimela334/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/charanYelimela334/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/charanYelimela334/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charanYelimela334/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/charanYelimela334/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/charanYelimela334/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/charanYelimela334/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/charanYelimela334/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/charanYelimela334/LeetCode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charanYelimela334/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/charanYelimela334/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/charanYelimela334/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3430-count-days-without-meetings](https://github.com/charanYelimela334/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/charanYelimela334/LeetCode/tree/master/0012-integer-to-roman) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charanYelimela334/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
