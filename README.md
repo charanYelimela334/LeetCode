@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/charanYelimela334/LeetCode/tree/master/0012-integer-to-roman) |
+| [0507-perfect-number](https://github.com/charanYelimela334/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charanYelimela334/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
